@@ -28,6 +28,12 @@ To start working on this project you will need to fork  [Repo 1](url), [Repo 2](
 * [Cypress](https://www.cypress.io/)
 * [RSpec](https://rspec.info/)
 
+##### ... additional packages and gems includes
+* [Jest](https://jestjs.io/en/)
+* [Enzyme](https://www.npmjs.com/package/enzyme)
+* [Cypress](https://www.cypress.io/)
+* [RSpec](https://rspec.info/)
+
 ##### we love to deploy with...
 
 * [Netlify](https://www.netlify.com/)
